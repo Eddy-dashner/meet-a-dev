@@ -116,8 +116,10 @@ nav ul li a:hover::after{
 /* .img{
     background-image: url(../images/Ellipse\ 1.png);
     background-position: center ;
+    border-radius: 30%;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 40%;
+    margin: 40%;
     background-attachment: fixed;
 } */
 #about{
@@ -385,4 +387,4 @@ form .btn2{
     font-weight: 300;
     margin-top: 20px;
 }
------------
+/* -----------css for small screen------------  */
